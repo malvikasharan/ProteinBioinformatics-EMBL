@@ -16,7 +16,7 @@
 
 **Part-1 Protein databases and sequence analysis**
 
-1. Protein databases: Malvika
+1. [Protein databases](https://github.com/malvikasharan/ProteinBioinformatics-EMBL/blob/master/protein_databases.md): Malvika
     - NCBI (quick overview)
     - UniProt
         - Swissprot
