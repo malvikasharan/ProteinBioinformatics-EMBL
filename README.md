@@ -11,6 +11,7 @@
     - http://www.sciencedirect.com/science/book/9788131222973
     - http://molbiol-tools.ca/Protein_Chemistry.htm
     - http://www.ebi.ac.uk/Tools/pfa/
+    - https://www.ncbi.nlm.nih.gov/books/NBK169830/#AboutProtein.Protein
 
 ## List of resources that will be covered in this workshop
 
