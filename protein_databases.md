@@ -1,5 +1,14 @@
+# Proteins
+
+# Biological databases
+
 # Protein databases
 
-### what?
-### Why?
-### How?
+# NCBI
+
+# UniProt Knowledgebase
+
+# Swissprot and Trembl
+
+# Other resources
+
