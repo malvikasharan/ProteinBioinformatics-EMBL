@@ -1,8 +1,6 @@
-# Contents
+# Proteins
 
-## Proteins
-
-Introduction
+## Introduction
 
 Proteins are macromolecules, constituted of long chains of amino acid residues of varying lengths inferred from the corresponding nucleotide sequences of their genes. Proteins are the building block of our body and they are involved in a wide range of biological functions within organisms, that include DNA replication, catalysis of metabolic reactions, response to stimuli, interaction with other biomolecules for pathway regulation, stability, transport, localization or degradation.
 
