@@ -68,7 +68,7 @@
     - ELM
     - IUPRED
     - DISPROT
-6. Protein-protein interaction: Malvika
+6. Protein-protein interaction: Michael
     - STRING
     - BioGrid
     - MINT
