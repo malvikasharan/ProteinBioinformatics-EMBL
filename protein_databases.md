@@ -1,18 +1,18 @@
-# Proteins
+# Contents
 
-# Biological databases
+## Proteins
 
-# Protein databases
+## Biological databases
 
-# NCBI
+## Protein databases
 
-# UniProt Knowledgebase
+### NCBI
 
-# Swissprot and Trembl
+### UniProt Knowledgebase
 
-# Cross-reference
-
-# Other resources for proteins
+  #### Swissprot and Trembl
+  #### Cross-reference
+  #### Other resources for proteins
 
 
 
