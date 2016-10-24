@@ -14,11 +14,11 @@ The Protein databases contain entries for each protein sequence from all the kno
 
 Protein records are available mainly in text formats that include sequence entries as FASTA and their corresponding annotations in XML formats. The protein entries are generally linked to external resources, allowing users to find relevant data such as literature (Pubmed), genes (NCBI, GenBank database), biological pathways (KEGG database), structures (PDB database), corresponding DNA/RNA sequences, sequence homologs, and expression and variation data.
 
-### NCBI tutorial
-### UniProt Knowledgebase
-#### Swissprot and Trembl
-#### Cross-reference
-#### Other resources for proteins
+#### NCBI tutorial
+#### UniProt Knowledgebase
+##### Swissprot and Trembl
+##### Cross-reference
+##### Other resources for proteins
 
 
 
