@@ -5,7 +5,7 @@
 |**Dates**|8 - 9 November|
 |**Time**|09:30 - 17:00 hrs|
 |**Venue**|ATC Computer lab, EMBL Heidelberg|
-|**Trainers**|Toby Gibson, Marc Gouw, Manjeet Kumar, Benjamin Lang, Malvika Sharan|
+|**Trainers**|Toby Gibson, Marc Gouw, Michael Kuhn, Manjeet Kumar, Benjamin Lang, Malvika Sharan|
 
 ## Important references
     - http://www.sciencedirect.com/science/book/9788131222973
