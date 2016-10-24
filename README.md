@@ -70,6 +70,6 @@
     - DISPROT
 6. Protein-protein interaction: Michael
     - STRING
-    - BioGrid
+    - Intact
     - MINT
 
